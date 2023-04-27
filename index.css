@@ -1,0 +1,11 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.nav-color
+{
+    background-color: rgb(207, 32, 230);
+    /* margin: 2rem; */
+    padding: 1.5rem;
+}
